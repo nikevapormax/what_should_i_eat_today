@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'articles',
-    
+    'foods',
     
     'django.contrib.admin',
     'django.contrib.auth',
